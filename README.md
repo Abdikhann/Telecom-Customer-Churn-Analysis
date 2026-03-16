@@ -93,11 +93,6 @@ Three-page interactive dashboard:
 
 ---
 
-## 📸 Dashboard Preview
-![Customer Churn Risk Story](dashboard/Dashboards.pdf)
-
----
-
 ## 🚀 How to Run
 
 ### Python Notebook
